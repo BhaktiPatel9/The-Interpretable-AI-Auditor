@@ -1,4 +1,5 @@
 # Interpretable AI Auditor 🧬
+![AI Audit: Feature Importance](shap_summary_plot.png)
 
 ### The Problem
 During my Graduate Research, I discovered a **10% quantifiable performance gap** between AI and traditional diagnostics. I realized that without interpretability, AI adoption faces critical risks involving **data privacy and algorithmic bias**.
